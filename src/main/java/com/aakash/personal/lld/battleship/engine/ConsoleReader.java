@@ -1,4 +1,4 @@
-package com.aakash.personal;
+package com.aakash.personal.lld.battleship.engine;
 
 import org.springframework.stereotype.Component;
 

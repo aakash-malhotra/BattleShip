@@ -1,7 +1,5 @@
-package com.aakash.personal.move;
+package com.aakash.personal.lld.battleship.engine;
 
-import com.aakash.personal.GameMemory;
-import com.aakash.personal.player.Player;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

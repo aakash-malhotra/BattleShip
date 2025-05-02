@@ -1,4 +1,4 @@
-package com.aakash.personal.player;
+package com.aakash.personal.lld.battleship.engine;
 
 import lombok.Getter;
 

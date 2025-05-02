@@ -1,11 +1,9 @@
-package com.aakash.personal;
+package com.aakash.personal.lld.battleship.engine;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import java.util.Scanner;
 
 @SpringBootApplication
 public class Game implements CommandLineRunner {

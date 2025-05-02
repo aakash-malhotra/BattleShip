@@ -1,9 +1,6 @@
-package com.aakash.personal.rule;
-
-import com.aakash.personal.player.Player;
+package com.aakash.personal.lld.battleship.engine;
 
 import java.util.function.BiFunction;
-import java.util.function.Function;
 
 public class Rule {
 

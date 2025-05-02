@@ -1,6 +1,5 @@
-package com.aakash.personal;
+package com.aakash.personal.lld.battleship.engine;
 
-import com.aakash.personal.rule.Rule;
 import jakarta.annotation.PostConstruct;
 import lombok.Getter;
 import lombok.Setter;

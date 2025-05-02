@@ -1,12 +1,6 @@
-package com.aakash.personal;
+package com.aakash.personal.lld.battleship.engine;
 
-import com.aakash.personal.engine.GameEngine;
-import com.aakash.personal.player.Player;
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service
